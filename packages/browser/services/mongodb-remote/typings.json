@@ -1,0 +1,4 @@
+{
+  "name": "mongodb-stitch-browser-services-mongodb-remote",
+  "main": "dist/esm/index.d.ts"
+}

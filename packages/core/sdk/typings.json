@@ -1,0 +1,4 @@
+{
+  "name": "mongodb-stitch-core-sdk",
+  "main": "dist/esm/index.d.ts"
+}
